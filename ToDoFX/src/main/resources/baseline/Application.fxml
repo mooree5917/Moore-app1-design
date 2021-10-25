@@ -9,6 +9,21 @@
 <!--
 I was had trouble understanding what "reflects a well planned design" means.
 -->
+
+<!--
+Important interface needs:
+Counter for #3 to show the number of items on list.
+
+Due date format in the form of YYYY/MM/DD. Drop down bars?
+
+Buttons named add, remove, edit title for #4-6.
+
+Edit buttons for #9-10.
+
+#12-14 Check boxes to change the format of their To Do list such as existing, completed, or incompleted.
+
+Save as or File save as for #15?
+-->
 <AnchorPane xmlns="http://javafx.com/javafx"
             xmlns:fx="http://javafx.com/fxml"
             fx:controller="baseline.Application"
